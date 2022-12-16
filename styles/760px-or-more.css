@@ -1,0 +1,35 @@
+@media screen and (max-width:760px) {
+    main{
+        order: 1;
+        width: 100%;
+    }
+    aside{
+        order: 2;
+        width: 100%
+    }
+    #main-content{
+        display: block;
+    }
+    #main-header h1{
+        font-size: 2.4em;
+    }
+    #main-header h2{
+        font-size: 1.6em;
+    }
+    p{
+        font-size: 1em;
+    }
+    #main-nav ul{
+        gap: 3em;
+    }
+    #figure-one img{
+        width: 170px;
+    }
+    #figure-two img{
+        width: 200px;
+    }
+    #figure-two img{
+        width: 200px;
+        margin: 0;
+    }
+}

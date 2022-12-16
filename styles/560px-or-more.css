@@ -1,0 +1,49 @@
+@media screen and (max-width:560px) {
+
+    #main-header h2{
+       display: none;
+    }
+    #main-header h1{
+       padding-bottom: 2em;
+       font-size: 2em;
+    }
+    
+    #figure-two{
+       float: none;
+       margin: 0 auto;
+     
+       margin-bottom: 1em;
+       
+   }
+    #figure-one{
+       float: none;
+       margin: 0 auto;
+     
+       margin-bottom: 1em;
+       
+   }
+    #figure-two img{
+       float: none;
+       width: 100%;
+       margin-right: 0;
+       margin: 0 auto;
+     
+       
+       height: auto;
+   }
+    #figure-one img{
+       float: none;
+       width: 100%;
+       margin-right: 0;
+       margin: 0 auto;
+     
+       
+       height: auto;
+   }
+   aside h2{
+       font-size: 1em;
+   }
+   #main-nav ul{
+       gap: 1em;
+   }
+   }
